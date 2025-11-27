@@ -1,11 +1,7 @@
 streamlit==1.25.0
 sentence-transformers==2.2.2
 rank_bm25==0.2.2
-faiss-cpu==1.11.0
+annoy==1.17.0
 lightgbm==3.3.5
-scikit-learn==1.2.2
 pandas==2.2.2
 numpy==1.24.3
-fastapi==0.95.0
-uvicorn==0.22.0
-nest-asyncio==1.5.6
