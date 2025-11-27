@@ -1,0 +1,10 @@
+streamlit==1.25.0
+sentence-transformers==2.2.2
+rank_bm25==0.2.2
+faiss-cpu==1.7.4
+lightgbm==3.3.5
+scikit-learn==1.2.2
+pandas
+numpy
+boto3     
+gunicorn  
